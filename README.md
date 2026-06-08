@@ -1,4 +1,4 @@
-# Missão ORION — Monitoramento Energético
+# 🛸 Missão ORION — Monitoramento Energético
 
 **Global Solution 2026.1 | Energias Renováveis e Sustentáveis | FIAP 1CCPY**
 
