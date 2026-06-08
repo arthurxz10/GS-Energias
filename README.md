@@ -100,7 +100,9 @@ Compara a potência real calculada com a potência prevista pelo modelo de IA.
 ### Distribuição dos alertas
 Pizza com a proporção de sistemas em cada nível de alerta.
 
-![Alertas](orion_outputs/05_alertas_pizza.png)
+div align="center"
+img src="https://github.com/user-attachments/assets/8ec23c49-8e74-4dff-9b87-43f708ec310c" width="0px" /
+/div
 
 ---
 
