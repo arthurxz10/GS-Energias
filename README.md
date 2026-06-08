@@ -80,22 +80,22 @@ Não precisa instalar nada além das bibliotecas — o dataset já está embutid
 ### Potência captada por estrela-alvo
 Barras coloridas por nível de alerta, com linha de referência do consumo total da cápsula.
 
-![Potência por estrela](orion_outputs/01_potencia_por_estrela.png)
+https://github.com/user-attachments/assets/3edc088a-a356-4db4-8a31-db22fa77b255
 
 ### Diagrama HR simplificado
 Temperatura × luminosidade dos sistemas estelares analisados, colorido por tipo espectral.
 
-![Diagrama HR](orion_outputs/02_diagrama_hr.png)
+https://github.com/user-attachments/assets/3cc1ee74-61e8-40dc-bd96-b2f4725af543
 
 ### Balanço energético
 Mostra quais sistemas têm superávit (verde) e quais têm déficit (vermelho).
 
-![Balanço](orion_outputs/03_balanco_energetico.png)
+https://github.com/user-attachments/assets/91b6739f-c3af-4a32-9356-64e45113a5a2
 
 ### Regressão Linear — Real vs Previsto
 Compara a potência real calculada com a potência prevista pelo modelo de IA.
 
-![Regressão](orion_outputs/04_regressao_ia.png)
+https://github.com/user-attachments/assets/d48baae0-4a6a-491e-9372-a30f17282c7c
 
 ### Distribuição dos alertas
 Pizza com a proporção de sistemas em cada nível de alerta.
